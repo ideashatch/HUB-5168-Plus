@@ -1,2 +1,13 @@
-智慧居家安全
-![image](https://github.com/ideashatch/HUB-5168-Plus_examples/assets/127272102/63c97f45-ebf1-4233-97cc-941fdbcb472e)
+### API Library
+
+PubSubClient By Nick https://pubsubclient.knolleary.net/
+
+### FILE
+
+mqtt_light.ino  
+mqtt_PIR.ino  
+mqtt_temperature_gas.ino  
+pi_broadcast.py  
+pi_middleware.py  
+LINE BOT.zip  
+yolo_detect_LINEreport.py
